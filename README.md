@@ -1,5 +1,5 @@
-# xxjan
-实习项目：餐饮智能推荐服务
+# Catering smart recommendation service
+Writer by xxjan
 
 实习项目：餐饮智能推荐服务	1
 一、 项目背景介绍	2
