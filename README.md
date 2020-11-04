@@ -1,12 +1,20 @@
+<!--
+* @Description:
+* @Author:XXJAN
+* @Company(School):LZU
+* @Date:2020-11-4 14:40:23
+* @LastEditors:XXJAN
+* @LastEditTime:2020-11-4 14:40:23
+-->
 # Deep Learning Studying Notes (Personality)
-## Cost Fucntion
+@[XXJAN](https://xxjan719@github.io)
 Writer by xxjan719
 
-This notes may be my first learning note in deep learning.Although I am also a new explorer in this field,but I want to try it hard to understand this popular and restate it into this README.md.At the same times I  use  the books called Deep learning which is written by **Zhihua Zhou** and courses by bilibili.If you want to contect me,please follow this [page]("http://xxjan719@github.io")
+This notes may be my first learning note in deep learning.Although I am also a new explorer in this field,but I want to try it hard to understand this popular and restate it into this README.md.At the same times I  use  the books called Deep learning which is written by **Zhihua Zhou** and courses by bilibili.If you want to contect me,please follow this [page](http://xxjan719@github.io)
 
 CHAPTER 1
 --------
-CHAPTER 2
+###CHAPTER 2
 -------
 
 **Cost Function**:<\br>
