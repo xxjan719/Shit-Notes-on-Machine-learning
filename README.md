@@ -23,7 +23,9 @@ It is called the cost function if a funtion satisfies the difference the real va
 **Regression Model with one variation**<br>
 *Aim*: Use a linear function to fit some data<br>
 *The main element for this Algorithm*:<br>
-* Set the Hypothesis(<img src="http://latex.codecogs.com/svg.latex?y=\theta_0&plus;\theta_1(x)" title="http://latex.codecogs.com/svg.latex?y=\theta_0+\theta_1(x)" />)
-* Fix the Cost Function(<img src="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" title="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" />)
+* Set the Hypothesis<br>
+<img src="http://latex.codecogs.com/svg.latex?y=\theta_0&plus;\theta_1(x)" title="http://latex.codecogs.com/svg.latex?y=\theta_0+\theta_1(x)" /><br>
+* Fix the Cost Function<br>
+<img src="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" title="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" /><br>
 * Gradient descent Methods*
 
