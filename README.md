@@ -19,11 +19,7 @@ It is called the cost function if a funtion satisfies the difference the real va
 * <img src="http://latex.codecogs.com/svg.latex?J(\theta)" title="http://latex.codecogs.com/svg.latex?J(\theta)" /> is not a vector.
 * <img src="http://latex.codecogs.com/svg.latex?J(\theta)" title="http://latex.codecogs.com/svg.latex?J(\theta)" /> can be used to evaluate the quality of the model. The smaller the cost function value is, the better the model and parameters conform to the training sample (x, y);
 
-**Gradient descent Methods**<br>
-Gradient is a very important concept in **calculus**. The meaning of gradient was mentioned before.
-* In a univariate function, the gradient is actually the derivative of the function, representing the slope of the tangent of the function at a given point.
-* In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.
-<img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png">
+
 
 **Regression Model**<br>
 **Regression Model with one variation**<br>
@@ -33,5 +29,8 @@ Gradient is a very important concept in **calculus**. The meaning of gradient wa
 <img src="http://latex.codecogs.com/svg.latex?y=\theta_0&plus;\theta_1(x)" title="http://latex.codecogs.com/svg.latex?y=\theta_0+\theta_1(x)" /><br>
 * Fix the Cost Function<br>
 <img src="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" title="http://latex.codecogs.com/svg.latex?L(\beta)=\frac{1}{2m}\sum_{i=1}^{m}(h_{\theta}(x^{(i)})-y^{(i)})^2" /><br>
-* Gradient descent Methods*
-
+* Gradient descent Methods*<br>
+Gradient is a very important concept in **calculus**. The meaning of gradient was mentioned before.
+* In a univariate function, the gradient is actually the derivative of the function, representing the slope of the tangent of the function at a given point.
+* In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.
+<img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png">
