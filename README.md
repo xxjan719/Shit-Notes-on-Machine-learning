@@ -7,7 +7,7 @@ CHAPTER 1
 --------
 CHAPTER 2
 -------
-##Cost Fucntion
-**Cost Function**:
+## Cost Fucntion
+**Cost Function**:It is called the cost function h(\theta)任何能够衡量模型预测出来的值h(θ)与真实值y之间的差异的函数都可以叫做代价函数C(θ)，如果有多个样本，则可以将所有代价函数的取值求均值，记做J(θ)。因此很容易就可以得出以下关于代价函数的性质：
 CHAPTER 3
 ------
