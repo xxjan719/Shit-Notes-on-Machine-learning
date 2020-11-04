@@ -34,3 +34,4 @@ Gradient is a very important concept in **calculus**. The meaning of gradient wa
 * In a univariate function, the gradient is actually the derivative of the function, representing the slope of the tangent of the function at a given point.
 * In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.
 <img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png">
+https://editor.codecogs.com/
