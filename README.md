@@ -32,7 +32,10 @@ It is called the cost function if a funtion satisfies the difference the real va
 * Gradient descent Methods*<br>
 Gradient is a very important concept in **calculus**. The meaning of gradient was mentioned before.
 * In a univariate function, the gradient is actually the derivative of the function, representing the slope of the tangent of the function at a given point.
-* In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.
+* In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.<br>
 In mathematics,it can be explained that the <img src="http://latex.codecogs.com/svg.latex?J" title="http://latex.codecogs.com/svg.latex?J" /> is the function denoted by <img src="http://latex.codecogs.com/svg.latex?\Theta&space;" title="http://latex.codecogs.com/svg.latex?\Theta " />.And we standed on the position <img src="http://latex.codecogs.com/svg.latex?\Theta_0" title="http://latex.codecogs.com/svg.latex?\Theta_0" />,where we will go through to the minisize position(called the hill of mountain).And we must certain the direction of advancement, that is, the reverse of the gradient, and then walk a distance of step length, which is <img src="http://latex.codecogs.com/svg.latex?\alpha" title="http://latex.codecogs.com/svg.latex?\alpha" />. After walking this step length, we reach the point <img src="http://latex.codecogs.com/svg.latex?\Theta_1" title="http://latex.codecogs.com/svg.latex?\Theta_1" />!
-<img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png">
+<img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png"><br>
+And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
 https://editor.codecogs.com/
+##References<br>
+[1].https://www.jianshu.com/p/c7e642877b0e
