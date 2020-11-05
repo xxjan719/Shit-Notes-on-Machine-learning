@@ -36,6 +36,6 @@ Gradient is a very important concept in **calculus**. The meaning of gradient wa
 In mathematics,it can be explained that the <img src="http://latex.codecogs.com/svg.latex?J" title="http://latex.codecogs.com/svg.latex?J" /> is the function denoted by <img src="http://latex.codecogs.com/svg.latex?\Theta&space;" title="http://latex.codecogs.com/svg.latex?\Theta " />.And we standed on the position <img src="http://latex.codecogs.com/svg.latex?\Theta_0" title="http://latex.codecogs.com/svg.latex?\Theta_0" />,where we will go through to the minisize position(called the hill of mountain).And we must certain the direction of advancement, that is, the reverse of the gradient, and then walk a distance of step length, which is <img src="http://latex.codecogs.com/svg.latex?\alpha" title="http://latex.codecogs.com/svg.latex?\alpha" />. After walking this step length, we reach the point <img src="http://latex.codecogs.com/svg.latex?\Theta_1" title="http://latex.codecogs.com/svg.latex?\Theta_1" />!
 <img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png"><br>
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
-https://editor.codecogs.com/
-##References<br>
+https://editor.codecogs.com/<br>
+## References<br>
 [1].https://www.jianshu.com/p/c7e642877b0e
