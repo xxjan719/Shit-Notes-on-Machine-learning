@@ -35,6 +35,11 @@ Gradient is a very important concept in **calculus**. The meaning of gradient wa
 * In a multivariate function, the gradient is a vector, and the vector has a direction. The direction of the gradient indicates the fastest rising direction of the function at a given point.<br>
 In mathematics,it can be explained that the <img src="http://latex.codecogs.com/svg.latex?J" title="http://latex.codecogs.com/svg.latex?J" /> is the function denoted by <img src="http://latex.codecogs.com/svg.latex?\Theta&space;" title="http://latex.codecogs.com/svg.latex?\Theta " />.And we standed on the position <img src="http://latex.codecogs.com/svg.latex?\Theta_0" title="http://latex.codecogs.com/svg.latex?\Theta_0" />,where we will go through to the minisize position(called the hill of mountain).And we must certain the direction of advancement, that is, the reverse of the gradient, and then walk a distance of step length, which is <img src="http://latex.codecogs.com/svg.latex?\alpha" title="http://latex.codecogs.com/svg.latex?\alpha" />. After walking this step length, we reach the point <img src="http://latex.codecogs.com/svg.latex?\Theta_1" title="http://latex.codecogs.com/svg.latex?\Theta_1" />!
 <img src="https://upload-images.jianshu.io/upload_images/1234352-af8dd9722c762c13.png"><br>
+Example 1:<br>
+If the binary function is<br>
+  <img src="http://latex.codecogs.com/svg.latex?J(\theta)=\theta_0^{2}&plus;\theta_1^{2}" title="http://latex.codecogs.com/svg.latex?J(\theta)=\theta_0^{2}+\theta_1^{2}" /><br>
+And this gradient follows that<br>
+<img src="http://latex.codecogs.com/svg.latex?\triangledown&space;J(\theta)=(2\theta_0,2\theta_1)" title="http://latex.codecogs.com/svg.latex?\triangledown J(\theta)=(2\theta_0,2\theta_1)" /><br>
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
 https://editor.codecogs.com/<br>
 ## References<br>
