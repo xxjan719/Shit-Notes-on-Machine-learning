@@ -48,5 +48,6 @@ then we can have this processing result
 <img src="https://pic1.zhimg.com/v2-bad845089a76548c461bd2807f234f50_r.jpg">
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
 https://editor.codecogs.com/<br>
+
 ## References<br>
 [1].https://www.jianshu.com/p/c7e642877b0e
