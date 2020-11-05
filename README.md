@@ -45,7 +45,7 @@ we set <img src="http://latex.codecogs.com/svg.latex?\Theta_0=(2,3)" title="http
 <img src="http://latex.codecogs.com/svg.latex?\Theta_2=\Theta_1-0.1\times&space;(2\times&space;1.6,2\times&space;2.4)=(1.28,1.92)" title="http://latex.codecogs.com/svg.latex?\Theta_2=\Theta_1-0.1\times (2\times 1.6,2\times 2.4)=(1.28,1.92)" /><br>
 etc
 then we can have this processing result
-
+<img src="https://pic1.zhimg.com/v2-bad845089a76548c461bd2807f234f50_r.jpg">
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
 https://editor.codecogs.com/<br>
 ## References<br>
