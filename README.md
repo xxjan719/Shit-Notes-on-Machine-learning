@@ -21,7 +21,7 @@ It is called the cost function if a funtion satisfies the difference the real va
 
 
 
-**Regression Model**<br>
+## Regression Model<br>
 **Regression Model with one variation**<br>
 *Aim*: Use a linear function to fit some data<br>
 *The main element for this Algorithm*:<br>
