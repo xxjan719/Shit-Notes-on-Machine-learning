@@ -40,6 +40,12 @@ If the binary function is<br>
   <img src="http://latex.codecogs.com/svg.latex?J(\theta)=\theta_0^{2}&plus;\theta_1^{2}" title="http://latex.codecogs.com/svg.latex?J(\theta)=\theta_0^{2}+\theta_1^{2}" /><br>
 And this gradient follows that<br>
 <img src="http://latex.codecogs.com/svg.latex?\triangledown&space;J(\theta)=(2\theta_0,2\theta_1)" title="http://latex.codecogs.com/svg.latex?\triangledown J(\theta)=(2\theta_0,2\theta_1)" /><br>
+we set <img src="http://latex.codecogs.com/svg.latex?\Theta_0=(2,3)" title="http://latex.codecogs.com/svg.latex?\Theta_0=(2,3)" /> and finish this iterative<br>
+<img src="http://latex.codecogs.com/svg.latex?\Theta_1=\Theta_0-0.1\times&space;(2\times&space;2,2\times3)=(1.6,2.4)" title="http://latex.codecogs.com/svg.latex?\Theta_1=\Theta_0-0.1\times (2\times 2,2\times3)=(1.6,2.4)" /><br>
+<img src="http://latex.codecogs.com/svg.latex?\Theta_2=\Theta_1-0.1\times&space;(2\times&space;1.6,2\times&space;2.4)=(1.28,1.92)" title="http://latex.codecogs.com/svg.latex?\Theta_2=\Theta_1-0.1\times (2\times 1.6,2\times 2.4)=(1.28,1.92)" /><br>
+etc
+then we can have this processing result
+
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.<br>
 https://editor.codecogs.com/<br>
 ## References<br>
