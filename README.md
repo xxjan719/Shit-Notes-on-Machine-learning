@@ -47,8 +47,8 @@ etc
 then we can have this processing result
 <img src="https://pic1.zhimg.com/v2-bad845089a76548c461bd2807f234f50_r.jpg">
 And this code is in the regression model doucment,you can check whether I am write this algorithm down right or not.And I use the 'ex2data.txt' and 'watermelon.csv' to get this classification.<br>
-![Image]<https://github.com/xxjan719/Shit-Notes-on-Machine-learning/blob/master/Linear_Model/Logistic_Model/Deep%20learning%20Linear%20Model_1.jpg><br>
-![Image]<https://github.com/xxjan719/Shit-Notes-on-Machine-learning/blob/master/Linear_Model/Logistic_Model/Deep%20learning%20Linear%20Model_2.jpg><br>
+<img src=https://github.com/xxjan719/Shit-Notes-on-Machine-learning/blob/master/Linear_Model/Logistic_Model/Deep%20learning%20Linear%20Model_1.jpg><br>
+<img src=https://github.com/xxjan719/Shit-Notes-on-Machine-learning/blob/master/Linear_Model/Logistic_Model/Deep%20learning%20Linear%20Model_2.jpg><br>
 
 https://editor.codecogs.com/<br>
 
