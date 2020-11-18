@@ -20,7 +20,8 @@ It is called the cost function if a funtion satisfies the difference the real va
 * <img src="http://latex.codecogs.com/svg.latex?J(\theta)" title="http://latex.codecogs.com/svg.latex?J(\theta)" /> can be used to evaluate the quality of the model. The smaller the cost function value is, the better the model and parameters conform to the training sample (x, y);
 
 
-
+## k-nearst neighbor(k-NN)<br>
+k近邻法是一种基本分类与回归方法,现在先研究分类问题的k，k近邻法的输入为实例的特征向量，对应于特征空间的点；输出为实例的类别，可以取多类，k近邻法假设给定一个训练数据集，其中实例类别已定，分类时，对新的实例，根据其k个最近邻的训练实例的类别，通过多数表决等方式进行预测，因此k近邻法不具有显式的学习过程，k近邻法实际熵利用训练数据集对特征向量空间进行划分，并作为其分类的模型，k值的选择，距离度量以及分类决策都是k近邻法的三个基本要素
 ## Regression Model<br>
 **Regression Model with one variation**<br>
 *Aim*: Use a linear function to fit some data<br>
